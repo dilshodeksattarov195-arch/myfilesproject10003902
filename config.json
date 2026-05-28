@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsealculate",
+        "uuid": 9930590,
+        "checksum": "iywlhx"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
